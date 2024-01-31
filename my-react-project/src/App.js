@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hack to the End 2nd Commit!!
+          Hack to the End 3rd Commit!!
         </p>
       </header>
     </div>
